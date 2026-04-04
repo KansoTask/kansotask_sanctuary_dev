@@ -1,0 +1,28 @@
+{
+  "name": "KansoTask",
+  "short_name": "KansoTask",
+  "description": "Minimalist task management designed for focus and mental clarity.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#F0F0F0",
+  "theme_color": "#F0F0F0",
+  "icons": [
+    {
+      "src": "icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
